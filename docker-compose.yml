@@ -7,7 +7,7 @@ services:
     ports:
       - "5000:5000"
     volumes:
-      - ./data:/app/data
+      - ./db:/app/db
       - ./fotos:/app/fotos
     environment:
       - FLASK_ENV=production

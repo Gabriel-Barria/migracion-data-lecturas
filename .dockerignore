@@ -23,7 +23,7 @@ coverage.xml
 .hypothesis
 *.db
 *.sqlite
-data/
+db/
 fotos/
 .env
 .env.*

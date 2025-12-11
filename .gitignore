@@ -10,7 +10,7 @@ ENV/
 .env
 *.db
 *.sqlite
-data/lecturas.db
+db/lecturas.db
 *.log
 .DS_Store
 Thumbs.db
